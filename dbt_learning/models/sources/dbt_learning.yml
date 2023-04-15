@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: dbt_learning
+    tables:
+      - name: netflix_titles
